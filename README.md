@@ -5,9 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramanaguru&label=Profile%20views&color=0e75b6&style=flat" alt="ramanaguru" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce Web Application (JAVA + SpringBoot)**
+- 🔭 I’m currently working on **JAVA + SpringBoot**
 - 🌱 I’m currently learning **Spring Boot**
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ramanagurunilacandane/)
+- Check out my portfolio(https://ramanaguru-portfolio.netlify.app/)
 - 💬 Ask me about **Java, DSA, Spring Boot**
 - 📫 How to reach me **ramanaguruloyola@gmail.com**
 - ⚡ Fun fact **I am Funny**
