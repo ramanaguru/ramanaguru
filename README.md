@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **JAVA + SpringBoot**
 - 🌱 I’m currently learning **Spring Boot**
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ramanagurunilacandane/)
-- Check out my portfolio(https://ramanaguru-portfolio.netlify.app/)
+- Check out my portfolio [Portfolio](https://ramanaguru-portfolio.netlify.app/)
 - 💬 Ask me about **Java, DSA, Spring Boot**
 - 📫 How to reach me **ramanaguruloyola@gmail.com**
 - ⚡ Fun fact **I am Funny**
